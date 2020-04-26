@@ -1,0 +1,2 @@
+# MKWS2020
+WUT MKWS project
